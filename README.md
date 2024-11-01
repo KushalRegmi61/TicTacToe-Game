@@ -81,7 +81,7 @@ TicTacToe-Game/
 
 ## Demo
 
-Below is a demonstration of the Tic Tac Toe game, showcasing the gameplay mechanics and user interactions in both the GUI and console versions.
+Below is a demonstration of the Tic Tac Toe game, showcasing the gameplay mechanics and user interactions in both the GUI version.
 
 ![Tic Tac Toe Demo](assets/demo.gif)
 
