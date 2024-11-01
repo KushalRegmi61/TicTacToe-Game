@@ -1,6 +1,4 @@
-Here’s the updated `README.md` with a description for the `consolegame.py` file included:
 
-```markdown
 # Tic Tac Toe Game
 
 A simple two-player Tic Tac Toe game built using the Tkinter Python module. This repository contains both a GUI-based and a console-based version of the game, allowing players to choose their preferred mode.
