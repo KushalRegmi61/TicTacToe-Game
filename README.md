@@ -16,7 +16,7 @@ A simple two-player Tic Tac Toe game built using the Tkinter Python module. This
 
 To run this project, you'll need:
 
-- Python 3.x
+- Python 3.
 - Tkinter (comes pre-installed with Python)
 
 You can install the necessary packages using the following command:
@@ -78,4 +78,14 @@ TicTacToe-Game/
 3. The players take turns clicking on the cells of the grid (in the GUI version) or entering their moves (in the console version).
 4. The game continues until one player wins or all cells are filled (resulting in a draw).
 5. Click the "Restart" button (in the GUI version) to play again.
+
+## Demo
+
+Below is a demonstration of the Tic Tac Toe game, showcasing the gameplay mechanics and user interactions in both the GUI and console versions.
+
+![Tic Tac Toe Demo](assets/demo.gif)
+
+
+
+
 
